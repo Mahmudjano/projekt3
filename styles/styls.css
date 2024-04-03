@@ -1,0 +1,54 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 150%;
+}
+.conteiner{
+    width: 900px;
+    margin: 0 auto;
+}
+h1{
+    font-size: 42px;
+    line-height: 100%;
+    margin: 0 0 24px 0;
+}
+header{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    padding: 40px;
+}
+nav li{
+    display: inline-block;
+    margin: 20px 0;
+}
+nav li a{
+    background-color: rgb(0, 162, 255);
+    color: rgb(8, 241, 0);
+    margin: 0 15px;
+    padding: 20px 40px;
+}
+h2{
+    font-size: 32px;
+    margin: 0 0 24px 0;
+}
+main > p{
+    background-color: rgb(157, 255, 0);
+    margin: 20px 0;
+    padding: 40px;
+    font-size: 16px;
+}
+img{
+    width: 100%;
+}
+blockquote p{
+    font-size: 18px;
+    margin: 40px 0;
+    padding: 15px 40px;
+    border-left: 3px solid greenyellow;
+    font-style: italic;
+}
+footer{
+    background-color: rgb(8, 138, 253);
+    color: white;
+    margin: 20px 0;
+    padding: 20px 40px;
+}

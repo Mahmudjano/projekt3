@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../ТЗ"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "kod yroka"
+	}
+}
